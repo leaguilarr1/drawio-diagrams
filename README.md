@@ -1,4 +1,4 @@
-# diagrams.net Diagrams
+# diagrams.net Diagrams 
 
 Click on a title to open a diagram or go to File, Open from, URL and enter an URL of the form 
 https://raw.githubusercontent.com/jgraph/drawio-diagrams/dev/diagrams/math.xml
